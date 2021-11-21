@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-21T15:17:15 COT" name="Default suite" finished-at="2021-11-21T15:17:22 COT" duration-ms="7585">
+    <groups>
+    </groups>
+    <test started-at="2021-11-21T15:17:15 COT" name="Default test" finished-at="2021-11-21T15:17:22 COT" duration-ms="7585">
+      <class name="tests.CareersTest">
+        <test-method is-config="true" signature="initializeDriver()[pri:0, instance:tests.CareersTest@15eb5ee5]" started-at="2021-11-21T15:17:15 COT" name="initializeDriver" finished-at="2021-11-21T15:17:19 COT" duration-ms="4773" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeDriver -->
+        <test-method signature="checkUserCanProcessCredit()[pri:1, instance:tests.CareersTest@15eb5ee5]" started-at="2021-11-21T15:17:19 COT" name="checkUserCanProcessCredit" description="This test case imports all the jobs located on the page" finished-at="2021-11-21T15:17:22 COT" duration-ms="2349" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkUserCanProcessCredit -->
+        <test-method is-config="true" signature="testSetUp()[pri:0, instance:tests.CareersTest@15eb5ee5]" started-at="2021-11-21T15:17:22 COT" name="testSetUp" finished-at="2021-11-21T15:17:22 COT" duration-ms="435" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSetUp -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestContext)[pri:0, instance:tests.CareersTest@15eb5ee5]" started-at="2021-11-21T15:17:22 COT" name="tearDown" finished-at="2021-11-21T15:17:23 COT" duration-ms="614" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@c889805]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.CareersTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
